@@ -74,7 +74,7 @@ setup(
     description=description,
     author='Google Inc.',
     author_email='tf-quant-finance@google.com',
-    url='https://github.com/google/tf-quant-finance',
+    url='https://github.com/VinayaSharada/tf-quant-finance',
     # Contained modules and scripts.
     packages=find_packages(),
     install_requires=REQUIRED_PACKAGES,
